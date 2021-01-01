@@ -3,8 +3,8 @@
 ### Hi there, I am Nishant Tyagi! 👋
 
 - 🔭 I’m currently working on Something creative✨
-- 🌱 I’m currently learning everything i can
-- 👯 I’m looking for Job/Internship in some product based company
+- 🌱 Learning everything i can
+- 👯 Looking for Job/Internship in some product based company
 - 💬 Ask me about - Javscript, Nodejs or anything related to development
 - 🥅 2021 GOALS : Contribute to Opensource, Create something new
 - ⚡ Fun fact: I love to make projects
