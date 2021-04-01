@@ -8,7 +8,6 @@
 - 👯 Looking for Job/Internship in some product based company
 - 💬 Ask me about - Javscript, Nodejs or anything related to development
 - 🥅 2021 GOALS : Contribute to Opensource, Create something new
-- ⚡ Fun fact: I love to make projects
 
 ### Spotify Playing 🎧
 
