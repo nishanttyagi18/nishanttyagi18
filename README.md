@@ -3,11 +3,11 @@
 # <samp>Nishant Tyagi</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
 ### Hi there 👋
 
-- 🔭 I’m currently working on Something creative✨
+- 🔭 I’m currently building products✨
 - 🌱 Learning everything i can
-- 👯 Looking for Job/Internship in some product based company
-- 💬 Ask me about - Javscript, Nodejs or anything related to development
-- 🥅 2021 GOALS : Contribute to Opensource, Create something new
+- 👯 Looking for Job in product based company
+- 💬 Ask me about - Node, React and Javascript
+- 🥅 2021 GOALS : Contribute to Opensource
 
 ### Languages and Tools:
 
