@@ -7,7 +7,7 @@
 - 🌱 Learning everything i can
 - 👯 Looking for Job in product based company
 - 💬 Ask me about - Node, React and Javascript
-- 🥅 2021 GOALS : Contribute to Opensource
+- 🥅 2022 GOALS : Contribute to Opensource, Build projects
 
 ### Languages and Tools:
 
