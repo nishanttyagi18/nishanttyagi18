@@ -1,6 +1,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iamnishant18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanttyagi18/)
 
-# <samp>Nishant Tyagi</samp><img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/mario_hello_big.gif" width="30px">
+# <samp>Nishant Tyagi</samp>
 ### Hi there 👋
 
 - 🔭 I’m currently building products✨
